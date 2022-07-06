@@ -1,4 +1,5 @@
-#Jeu du nombre mystère
+#Projet 4 : Création du jeux du "nombre mystère"
+
 from random import randint
 
 #Générer le nombre aléatoire entre 0 et 100
