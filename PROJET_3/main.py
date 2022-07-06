@@ -1,4 +1,4 @@
-#Créer une liste de courses en ligne de commande
+# Projet 3 : Création d'une liste de courses
 
 import sys
 
