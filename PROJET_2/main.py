@@ -1,3 +1,5 @@
+#Projet 2 : Calculatrice avec Gestion des erreurs
+
 a = b = ""
 
 
