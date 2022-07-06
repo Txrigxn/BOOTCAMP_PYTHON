@@ -1,4 +1,4 @@
-#Création d'un jeu de rôle pour le terminal
+#Projet 5 : Création d'un jeu de rôle pour le terminal
 
 from random import randint
 
