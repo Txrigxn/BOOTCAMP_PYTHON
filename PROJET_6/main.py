@@ -1,4 +1,5 @@
-#Créer une liste de courses avec sauvegarde
+#Projet 6 : Création d'une liste de courses avec sauvegarde
+
 import os
 import sys
 import json
